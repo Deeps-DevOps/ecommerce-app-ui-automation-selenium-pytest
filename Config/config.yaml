@@ -1,0 +1,6 @@
+#stores base URLs, browser type, timeouts, and credentials.
+
+url: "https://rahulshettyacademy.com/loginpagePractise/"
+credentials:
+  username: "TestUser"
+  password: "12345"
